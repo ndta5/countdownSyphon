@@ -14,12 +14,10 @@ syphon出力を利用可能。文字を任意の位置・フォント・色・�
 # Usage
 
 1. The executable file is in the "bin.zip". Unzip "bin.zip" to use.
-実行ファイル(アプリ)はbin.zipに入ってます。bin.zipを解凍して使用してください。
+ 実行ファイル(アプリ)はbin.zipに入ってます。bin.zipを解凍して使用してください。
 
-2. usaga
-Edit "bin/settings.xml" if you wish to change the date and time settings.
-
-日付と時刻の設定を変更したい場合は、「bin/settings.xml」を編集する。
+2. Edit "bin/settings.xml" if you wish to change the date and time settings.
+ 日付と時刻の設定を変更したい場合は、「bin/settings.xml」を編集する。
 
 # Build
 
