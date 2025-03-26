@@ -22,9 +22,9 @@ syphon出力を利用可能。文字を任意の位置・フォント・色・�
 
 # Build
 
-Generate a project by applying ofxGui and ofxSyphon with projectGenerator of openFrameworks.
+Generate a project by applying ofxGui and ofxSyphon and ofxXmlSettings with projectGenerator of openFrameworks.
 
-openFrameworksのprojectGeneratorでofxGuiとofxSyphonを適用してプロジェクトを生成します。
+openFrameworksのprojectGeneratorでofxGuiとofxSyphonとofxXmlSettingsを適用してプロジェクトを生成します。
 
 ![projectGenerator](img/generateProject.png)
 
